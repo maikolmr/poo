@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@maikolmr 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-gilsonpcf
-/
-poo
-0
-0
-1
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-poo/encapsulamento/java/Aluno.java /
-@gilsonpcf
-gilsonpcf Add files via upload
-Latest commit 8f5ba4c on 28 Mar 2019
- History
- 1 contributor
-57 lines (47 sloc)  1.19 KB
-  
 // Disciplina: Programação Orientada a Objetos
 // Professor : Gilson Pereira
 // Assunto   : Encapsulamento em Java
@@ -90,15 +55,3 @@ public class Aluno {
 			this.turma = "idoso";
 	}
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
