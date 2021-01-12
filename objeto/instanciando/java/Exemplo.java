@@ -1,7 +1,7 @@
-// Disciplina: Programação Orientada a Objetos
+// Disciplina: Programacao Orientada a Objetos
 // Professor : Gilson Pereira
 // Assunto   : Instanciando objetos em Java
-// Fonte     : Ascencio e Campos - Fundamentos da Programação de Computadores (3ª ed.)
+// Fonte     : Ascencio e Campos - Fundamentos da Programacao de Computadores (3ï¿½ ed.)
 
 import java.util.Scanner;
 
@@ -35,7 +35,7 @@ public class Exemplo
 		float preco, imp;
 		String tipo;
 		
-		System.out.println("digite o preço do produto: ");
+		System.out.println("digite o preï¿½o do produto: ");
 		preco = dado.nextFloat();
 		
 		System.out.println("digite o tipo do produto: ");
@@ -44,7 +44,7 @@ public class Exemplo
 		p.valor = preco;
 		p.tipo = tipo;
 		
-		System.out.println("\nPreço do produto = " + p.valor);
+		System.out.println("\nPreco do produto = " + p.valor);
 		System.out.println("\nTipo do produto = " + p.tipo);
 		
 		imp = p.valorImposto();
